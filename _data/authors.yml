@@ -26,9 +26,11 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    CV:              ../assets/Nikita_Lazarev_CV.pdf
+    email:           nikita.u.lazarev@gmail.com
+    linkedin:        nikita-lazarev-18966377
+    twitter:         Nikita29868530
+    telegram:        https://t.me/tnikita09
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -57,7 +59,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

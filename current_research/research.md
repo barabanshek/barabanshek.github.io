@@ -10,13 +10,13 @@ permalink: /current_research/
 
 ## Towards CPU-free datamovement in the cloud
 
-<font size="4">  In my current work, I am exploring new hardware and software technologies to enable <strong>fast</strong>, <strong>reliable</strong>, <strong>low-overhead</strong>, and <strong>secure</strong> communication in datacenters. I am working towards designing of completely CPU-free cloud networking stacks, where the entire cross-machine application-to-application data path <em>runs outside of the processor, with zero software overhead and CPU utilization</em>. </font>
+<font size="4">  In my current work, I'm exploring new hardware and software technologies to enable <strong>fast</strong>, <strong>reliable</strong>, <strong>low-overhead</strong>, and <strong>secure</strong> communication in datacenters. I'm working towards designing of completely CPU-free cloud networking stacks, where the entire cross-machine application-to-application data path <em>runs outside of the processor, with zero software overhead and CPU utilization</em>. </font>
 
 
 My general philosophy here is that datacenter processors should not waste their time and energy for data exchange. This is particularly important in the today's world of fine-granular, highly-concurrent, and interactive internet services, especially the ones based on the pay-as-you-go cost model. CPU-free communication stacks will dramatically reduce the total amount of CPU time required per application, and will also enable truly nano-second scale cloud networking. Just imagine your microservices where there is almost no difference in calling remote vs local functions. Physically, this is already possible today with all the advances in datacenter optical wiring and <a href="https://www.microsoft.com/en-us/research/project/sirius/" title="MSRC">switching</a>. We just needs to sort out the bottlenecks in the end-host, so here we go!
 {:.note title="Philosophy"}
 
-In addition to this main research direction, I recently started working (in collaboration with <a href="https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/" title="MSRC">Microsoft Research Azure for Operators</a>) on 5G and virtual radio access networks (vRAN). I am still very new to this field, but I am looking forward to the opportunities that 5G and vRAN open for low-latency communication and real-time in-network processing.
+In addition to this main research direction, I recently started working (in collaboration with <a href="https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/" title="MSRC">Microsoft Research Azure for Operators</a>) on cloud native 5G architectures and virtual radio access networks (vRAN). I'm still very new to this field, but I'm looking forward to the opportunities that 5G and vRAN open for low-latency communication and real-time in-network processing.
 
 ---
 
@@ -40,6 +40,4 @@ In this project, we built the first proof-of-work system for offloading a basic 
 <img src="../assets/img/x86.png" width="150" height="120" style="float:right" padding-top=10px />
 
 The upcoming (as of 2021) server-class x86/64 processors will come with the optimized I/O sub-system through a set of new ISA extensions. In this research, we evaluate the new I/O system on commodity and kernel-bypass end-host networking stacks, and estimate its potential to improve the performance and CPU efficiency of cloud networking. This project is being carried over with the generous support by <a href="https://www.intel.com/" title="Intel">Intel Corporation</a>.
-
-<##### <ins>Cloud Native Architecture for Virtual 5G RAN</ins>>
 
