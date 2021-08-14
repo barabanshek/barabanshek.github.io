@@ -42,7 +42,7 @@ Samsung R&D Above and Beyond Award
 
 ##### <ins>Low-Latency Realtime PID Controller for Lasers</ins>
 
-Design and implementation of a low-latency realtime PID controller for lasers for the research in <a href="https://www.microsoft.com/en-us/research/project/farm/" title="MSRC">Laboratory for Quantum Gases</a> at EPFL. **Adviser**: <a href="https://people.epfl.ch/jean-philippe.brantut">Professor Jean-Philippe Brantut</a>.
+Design and implementation of a low-latency realtime PID controller for lasers for the research in <a href="https://www.microsoft.com/en-us/research/project/farm/" title="MSRC">Laboratory for Quantum Gases</a> at EPFL. **Advisor**: <a href="https://people.epfl.ch/jean-philippe.brantut">Professor Jean-Philippe Brantut</a>.
 
 Mixed signal PCB design with high-speed, high-precision ADCs/DACs, FPGA programming, fabrication, and testing.
 {:.note title="My contribution"}
@@ -65,7 +65,7 @@ Creating the concept of the project, implementation of the first FPGA-based prot
 
 <img src="../assets/img/3d_printer.png" width="280" style="float:right; padding-left: 2pt" />
 
-Development of a robot with the new non-cartesian kinematics for 3D printing. The main novelty of this work is the support-less kinematic scheme where stability of the structure is reached through coordinated operation of the actuators. This project started as independent hobby work with my school friend, and turned into our join undergraduate thesis.
+Development of a robot with the new non-cartesian kinematics for 3D printing. The main novelty of this work is the support-less kinematic scheme where stability of the structure is achieved via coordinated operation of the actuators. This project started as independent hobby work with my school friend, and turned into our join undergraduate thesis.
 
 Development of the robot control system, and its implementation in the on-board firmware.
 {:.note title="My contribution"}
