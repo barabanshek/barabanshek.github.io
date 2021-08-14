@@ -8,7 +8,7 @@ sitemap: false
 permalink: /past_projects/
 ---
 
-In the past, I was involved in some decent amount of projects both in the industry and academia, as well as hobby projects. Here, I'm listing the most interesting of them.
+In the past, I was involved in some decent number of projects both in the industry and academia, as well as hobby projects. Here, I'm listing the most interesting of them.
 
 ## Industry <img src="../assets/img/industry_icon.png" width="45" height="45" style="float:right;"/>
 
@@ -57,15 +57,15 @@ Creating the concept of the project, implementation of the first FPGA-based prot
 <a href="https://elibrary.ru/item.asp?id=24933545" title="Paper">Reference Publication</a>
 
 
-## Independent/Hobby Projects <img src="../assets/img/hobby_icon.png" width="48" height="48" style="float:right; object-position: 0 -4pt;" />
+## Hobby Projects <img src="../assets/img/hobby_icon.png" width="45" height="45" style="float:right; object-position: 0 -4pt;" />
 
 ---
 
-##### <ins>3D Printer with Non-Cartesian (Parallel) Kinematics</ins>
+##### <ins>3D Printer with Non-Cartesian Kinematics</ins>
 
 <img src="../assets/img/3d_printer.png" width="280" style="float:right; padding-left: 2pt" />
 
-Development of a robot with the new non-cartesian kinematics for 3D printing. The main novelty of this work is the support-less kinematic scheme where stability of the structure is reached through coordinated operation of actuators. This project started as independent hobby work with my friend and collaborator, and turned into our join undergraduate thesis.
+Development of a robot with the new non-cartesian kinematics for 3D printing. The main novelty of this work is the support-less kinematic scheme where stability of the structure is reached through coordinated operation of the actuators. This project started as independent hobby work with my school friend, and turned into our join undergraduate thesis.
 
 Development of the robot control system, and its implementation in the on-board firmware.
 {:.note title="My contribution"}
