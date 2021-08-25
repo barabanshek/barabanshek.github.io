@@ -12,6 +12,8 @@ permalink: /
 
 **I'm Nikita.**<br/>
 
+<br/>
+
 <font size="4"> I'm a third-year PhD student @ <a href="http://cornell.edu/" title="Cornell">Cornell Univesity</a>. Here, I'm a part of the <a href="https://www.csl.cornell.edu/" title="Cornell">Computer System Laboratory</a>, where we do exciting research on new software and hardware systems for the cloud under the guidance of <a href="https://www.csl.cornell.edu/~zhiruz/" title="Cornell">Professor Zhiru Zhang</a> and <a href="https://www.csl.cornell.edu/~delimitrou/" title="Cornell">Professor Christina Delimitrou</a>. </font>
 
 ---
