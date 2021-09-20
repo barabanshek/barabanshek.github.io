@@ -10,7 +10,7 @@ permalink: /past_projects/
 
 In the past, I was involved in some decent number of projects both in the industry and academia, as well as hobby projects. Here, I'm listing the most interesting of them.
 
-## Industry <img src="../assets/img/industry_icon.png" width="45" height="45" style="float:right;"/>
+## Industry <img src="../assets/img/industry_icon.png" width="45" height="45" style="float:right; object-position: 0 -4pt;"/>
 
 ---
 
