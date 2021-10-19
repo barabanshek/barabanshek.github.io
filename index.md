@@ -30,7 +30,7 @@ In my free time, I enjoy all sorts of **intense** outdoor activity, in particula
 And this is very true! Nothing (even accepted papers) motivates me as much as a really running system.
 {:.note}
 
-Building systems as a hardware-focused researcher is challenging in academia. It takes time and requires additional efforts to attract industrial collaborators to support the projects. But this is another part of our work that I really enjoy! Our research is supported by <a href="https://www.intel.com/" title="Intel">Intel</a>, <a href="https://www.xilinx.com/" title="Xilinx">Xilinx</a>, and I'm very grateful for all their help.
+Building systems as a hardware-focused researcher is challenging in academia. It takes time and requires additional efforts to attract industrial collaborators to support the projects. But this is another part of our work that I really enjoy! Our research is supported by <a href="https://www.intel.com/" title="Intel">Intel</a>, <a href="https://www.xilinx.com/" title="Xilinx">Xilinx</a>, and <a href="https://www.microsoft.com/" title="Xilinx">Microsoft</a>, and I'm very grateful for all their help.
 
 
 ### Let's Keep in touch!
