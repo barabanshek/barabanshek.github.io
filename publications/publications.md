@@ -19,10 +19,10 @@ N. Lazarev, N. Adit, S. Xiang, Z. Zhang, C. Delimitrou, "Dagger: Efficient and F
 
 ## List of Public Talks
 
-<a href="https://www.youtube.com/watch?v=ONnR6Mg6t4E" title="asplos">"Dagger: Efficient and Fast RPCs in Cloud Microservices with Near-Memory Reconfigurable NICs"</a>, <a href="https://asplos-conference.org/" title="asplos_1">ASPLOS'21</a>, April 2021, Detroit, MI, USA (Virtual)
+<a href="https://www.youtube.com/watch?v=ONnR6Mg6t4E" title="asplos">"Dagger: Efficient and Fast RPCs in Cloud Microservices with Near-Memory Reconfigurable NICs"</a>, <a href="https://asplos-conference.org/" title="asplos_1">ASPLOS'21</a>, April 2021, Detroit, MI, USA
 
-"Fast RPCs for Cloud Microservices Using Near-Memory Reconfigurable NICs", e-Workshop, <a href="https://crisp.engineering.virginia.edu/joint-university-microelectronics-program-jump" title="crisp">JUMP CRISP</a>, April 2021, Virtual
+"Fast RPCs for Cloud Microservices Using Near-Memory Reconfigurable NICs", e-Workshop, <a href="https://crisp.engineering.virginia.edu/joint-university-microelectronics-program-jump" title="crisp">JUMP CRISP</a>, April 2021, Charlottesville, VA, USA
 
-"Efficient and Fast Cloud RPC Stacks with Closely-Coupled Reconfigurable NICs", <a href="https://xilinx.github.io/xacc/uiuc.html" title="crisp">XACC Center @UIUC</a>, May 2021, Urbana-Champaign, IL, USA (Virtual)
+"Efficient and Fast Cloud RPC Stacks with Closely-Coupled Reconfigurable NICs", <a href="https://xilinx.github.io/xacc/uiuc.html" title="crisp">XACC Center @UIUC</a>, May 2021, Urbana-Champaign, IL, USA
 
 "Towards CPU-free Remote Procedure Calls in Datacenters", <a href="https://www.cs.cornell.edu/courses/cs7490/2021fa/" title="crisp">CS Systems Lunch @Cornell</a>, October 2021, Ithaca, NY, USA
