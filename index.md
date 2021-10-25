@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Hi there,
+title: Nikita Lazarev
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+  This is the personal web page for Nikita Lazarev.
 hide_description: true
 sitemap: false
 permalink: /
@@ -10,7 +10,7 @@ permalink: /
 
 <img src="../assets/photo_1.jpg" width="170" height="140" style="float:right; padding-left:10px; padding-top:10px" />
 
-**I'm Nikita.**<br/><br/>
+**Hi there,**<br/><br/>
 
 
 <font size="4"> I'm a third-year PhD student @ <a href="http://cornell.edu/" title="Cornell">Cornell Univesity</a>. Here, I'm a part of the <a href="https://www.csl.cornell.edu/" title="Cornell">Computer System Laboratory</a>, where we do exciting research on new software and hardware systems for the cloud under the guidance of <a href="https://www.csl.cornell.edu/~zhiruz/" title="Cornell">Professor Zhiru Zhang</a> and <a href="https://www.csl.cornell.edu/~delimitrou/" title="Cornell">Professor Christina Delimitrou</a>. </font>
