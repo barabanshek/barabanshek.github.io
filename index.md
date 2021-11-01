@@ -4,7 +4,7 @@ title: Nikita Lazarev
 description: >
   This is the personal web page for Nikita Lazarev.
 hide_description: true
-sitemap: false
+sitemap: true
 permalink: /
 ---
 
