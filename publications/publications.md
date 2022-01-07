@@ -21,6 +21,8 @@ D. Boldasov, N. Lazarev, A. Syritsky, "Phase-Chronometric System for Monitoring 
 
 D. Kim, N. Lazarev, T. Tracy, F. Siddique, H. Namkung, J. Hoe, V. Sekar, K. Skadron, Z. Zhang, S. Seshan, "A Roadmap for Enabling a Future-Proof In-Network Computing Data Plane Ecosystem", <a href="https://arxiv.org/abs/2111.04563" title="arxiv_switch">Arxiv pre-print</a>, October, 2021
 
+Liam Patterson, David Pigorovsky, Brian Dempsey, Nikita Lazarev, Aditya Shah, Clara Steinhoff, Ariana Bruno, Justin Hu, Christina Delimitrou, "A Hardware-Software Stack for Serverless Edge Swarms", <a href="https://arxiv.org/abs/2112.14831" title="arxiv_drones">Arxiv pre-print</a>, December, 2021
+
 
 ## List of Public Talks
 
