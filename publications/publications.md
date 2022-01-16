@@ -32,7 +32,7 @@ D. Kim, N. Lazarev, T. Tracy, F. Siddique, H. Namkung, J. Hoe, V. Sekar, K. Skad
 
 <a href="https://www.youtube.com/watch?v=ONnR6Mg6t4E" title="asplos">"Dagger: Efficient and Fast RPCs in Cloud Microservices with Near-Memory Reconfigurable NICs"</a>, <a href="https://asplos-conference.org/" title="asplos_1">ASPLOS'21</a>, April 2021, Detroit, MI, USA
 
-## List of Awards
+## List of Awards!
 
 <ol>
   <li>IEEE Micro “Top Picks from the Computer Architecture Conferences”: Honorable Mention, 2022</li>
