@@ -24,6 +24,8 @@ D. Kim, N. Lazarev, T. Tracy, F. Siddique, H. Namkung, J. Hoe, V. Sekar, K. Skad
 
 ## List of Public Talks
 
+"CPU-free Datamovement in the Cloud", lighting talk, <a href="https://events.withgoogle.com/networking-research-summit-2022/" title="crisp">Google Networking Research Summit'22</a>, Google, Virtual, USA
+
 "Towards CPU-free Remote Procedure Calls in Datacenters", <a href="https://www.cs.cornell.edu/courses/cs7490/2021fa/" title="crisp">CS Systems Lunch @Cornell</a>, October 2021, Ithaca, NY, USA
 
 "Efficient and Fast Cloud RPC Stacks with Closely-Coupled Reconfigurable NICs", <a href="https://xilinx.github.io/xacc/uiuc.html" title="crisp">XACC Center @UIUC</a>, May 2021, Urbana-Champaign, IL, USA
