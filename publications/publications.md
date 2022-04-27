@@ -17,9 +17,14 @@ N. Lazarev, N. Adit, S. Xiang, Z. Zhang, C. Delimitrou, "Dagger: Towards Efficie
 D. Boldasov, N. Lazarev, A. Syritsky, "Phase-Chronometric System for Monitoring Turning Processes", <a href="http://www.pribory-smi.ru/" title="devices">"The Devices"</a>, May 2015, (in Russian)
 
 
-## List of Articles
+## List of Preprints
 
 D. Kim, N. Lazarev, T. Tracy, F. Siddique, H. Namkung, J. Hoe, V. Sekar, K. Skadron, Z. Zhang, S. Seshan, "A Roadmap for Enabling a Future-Proof In-Network Computing Data Plane Ecosystem", <a href="https://arxiv.org/abs/2111.04563" title="arxiv_switch">Arxiv pre-print</a>, October, 2021
+
+
+## List of Patents
+
+"Precise FPGA-based time measurement system for real-time turning process monitoring", A. Syritsky, D. Boldasov, N. Lazarev, A. Komshin, Russian patent, registration number: RU2019610688, 2016
 
 
 ## List of Public Talks
