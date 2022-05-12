@@ -10,6 +10,8 @@ permalink: /publications/
 
 ## List of Publications
 
+N. Lazarev*, T. Ji*, A. Kalia, D. Kim, I. Marinos, F. Y. Yan, C. Delimitrou, Z. Zhang, A. Akella, "Migrating PHY Processing in Cloud vRAN Systems", In submission
+
 N. Lazarev, N. Adit, S. Xiang, Z. Zhang, C. Delimitrou, "Dagger: Efficient and Fast RPCs in Cloud Microservices with Near-Memory Reconfigurable NICs", <a href="https://dl.acm.org/doi/proceedings/10.1145/3445814" title="asplos">Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems</a>, April 2021 -- **IEEE MICRO Top Pick Honorable Mention Award**
 
 N. Lazarev, N. Adit, S. Xiang, Z. Zhang, C. Delimitrou, "Dagger: Towards Efficient RPCs in Cloud Microservices with Near-Memory Reconfigurable NICs", <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10208" title="cal">IEEE Computer Architecture Letters</a>, August 2020
