@@ -30,17 +30,33 @@ In this project, we built the first proof-of-concept system for offloading a bas
 
 <a href="https://github.com/barabanshek/Dagger" title="MSRC">GitHub repo</a>
 
+<a href="https://github.com/barabanshek/Dagger/blob/master/resources/Dagger_Slides.pdf" title="MSRC">Project Presentation (long)</a>
+
 <a href="https://www.youtube.com/watch?v=ONnR6Mg6t4E" title="MSRC">ASPLOS'21 Conference Talk, 2021</a>
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3445814.3446696" title="MSRC">ASPLOS'21 Paper, 2021</a>
 
 <a href="https://ieeexplore.ieee.org/document/9180035/" title="MSRC">IEEE CAL Early Work Paper, 2020</a>
 
+
+##### <ins>Dagger+: CPU-Free, General and Efficient Data Transformation and Movement System for the Cloud</ins>
+
+<img src="../assets/img/dagger_plus.png" width="140" height="110" style="float:right; position: relative; top: 15px" />
+
+Extension of our first work on Dagger which in addition to the data movement offload also enables data transformation and manipulation offloads. In this project, we account for the lessons learnt from the first Dagger work and are focusing on making a new CPU-free datamovement system which is not only efficient/fast, but also general, highly programmable, and backward compatible with existing systems. We leverage the novel architectural extensions in the upcoming server-class processors to make it possible! 
+
+The project is sponsored and guided by <a href="https://www.intel.com/content/www/us/en/research/overview.html" title="Intel">Intel Labs</a>.
+
+
 ##### <ins>Towards Virtual Radio Access Networks (vRAN) as Cloud Native Feature</ins>
 
 <img src="../assets/img/5g.png" width="160" height="130" style="float:right" padding-top=2px />
 
-5G networks come with great bandwidth and low latency, therefore enabling many emerging applications such as self-driving cars, drone swarms, IoT, cloud gaming, and so on at the large scale. However, in order to take the full advantage of their potential, networking functions for 5G and beyond must be scalable, reliable, and intelligently adaptable. This research aims to develop novel technologies to address the aforementioned requirements and enhance the widespread adoption of radio access networks. In particular, we further extend the concept of vRAN to introduce fault tolerance, disaggregation, and load balancing when deploying 5G network functions on the edge cloud platforms at scale. This project is a collaborative effort with <a href="https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/" title="MSRC">Microsoft Azure for Operators</a> group at Microsoft. **Mentor:** <a href="http://anujkalia.com/" title="AnujKalia">Anuj Kalia</a>.
+5G networks come with great bandwidth and low latency, therefore enabling many emerging applications such as self-driving cars, drone swarms, IoT, cloud gaming, and so on at the large scale. However, in order to take the full advantage of their potential, networking functions for 5G and beyond must be scalable, reliable, and intelligently adaptable. This research aims to develop novel technologies to address the aforementioned requirements and enhance the widespread adoption of radio access networks. In particular, we further extend the concept of vRAN to introduce fault tolerance, disaggregation, and load balancing when deploying 5G network functions on the edge cloud platforms at scale.
+
+This work is a collaborative effort with <a href="https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/" title="MSRC">Microsoft Azure for Operators Research</a> group at Microsoft.
+
+**Mentor:** <a href="http://anujkalia.com/" title="AnujKalia">Anuj Kalia</a>.
 
 
 ##### <ins>Efficient End-Host Networking with I/O-Optimized x86/64 ISA Extension</ins>
@@ -48,4 +64,3 @@ In this project, we built the first proof-of-concept system for offloading a bas
 <img src="../assets/img/x86.png" width="140" height="110" style="float:right" padding-top=10px />
 
 The upcoming (as of 2021) server-class x86/64 processors will come with the optimized I/O sub-system through a set of new ISA extensions. In this research, we evaluate the new I/O system on commodity and kernel-bypass end-host networking stacks, and estimate its potential to improve the performance and CPU efficiency of cloud networking. This project is being carried over with the generous support by <a href="https://www.intel.com/" title="Intel">Intel Corporation</a>.
-
