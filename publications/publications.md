@@ -30,6 +30,8 @@ L. Patterson, D. Pigorovsky, B. Dempsey, N. Lazarev, A. Shah, C. Steinhoff, A. B
 
 "Precise FPGA-based time measurement system for real-time turning process monitoring", A. Syritsky, D. Boldasov, N. Lazarev, A. Komshin, Russian patent, registration number: RU2019610688, 2016
 
+"Project Orion: Transparently converting a shared memory channel between L1 and L2 into an over-the-network channel", A. Kalia, D. Kim, I. Marinos, T. Jiang, N. Lazarev, V. Bahl, Pending US patent, 2021
+
 
 ## List of Public Talks
 
