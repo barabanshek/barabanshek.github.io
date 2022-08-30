@@ -10,10 +10,9 @@ permalink: /
 
 <img src="../assets/photo_1.jpg" width="170" height="140" style="float:right; padding-left:10px; padding-top:10px" />
 
-**Hi there,**<br/><br/>
+**Hey-hey,**<br/><br/>
 
-
-<font size="4"> I'm a third-year PhD student @ <a href="http://cornell.edu/" title="Cornell">Cornell Univesity</a>. Here, I'm a part of the <a href="https://www.csl.cornell.edu/" title="Cornell">Computer System Laboratory</a>, where we do exciting research on new software and hardware networking systems for the cloud under the guidance of <a href="https://www.csl.cornell.edu/~zhiruz/" title="Cornell">Professor Zhiru Zhang</a> and <a href="https://www.csl.cornell.edu/~delimitrou/" title="Cornell">Professor Christina Delimitrou</a>. I'm also a visiting researcher at <a href="https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/" title="MSRC">Microsoft Azure for Operators</a> group in Redmond working with <a href="http://anujkalia.com/" title="AnujKalia">Anuj Kalia</a> on virtualized radio access networks (vRAN) for 5G. </font>
+<font size="4"> I'm a forth-year PhD student in <a href="https://www.csail.mit.edu/" title="CSAIL">CSAIL</a>  @<a href="http://mit.edu/" title="Cornell">MIT</a>. Here we do exciting research on new software and hardware networking systems for the cloud under the guidance of <a href="https://people.csail.mit.edu/delimitrou/" title="Cornell">Professor Christina Delimitrou</a> and <a href="https://www.csl.cornell.edu/~zhiruz/" title="Cornell">Professor Zhiru Zhang</a>. Before coning to MIT, I spent 3 wonderful years at <a href="https://www.cornell.edu/" title="Cornell">Cornell</a>! At the same time, I'm also a visiting researcher at <a href="https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/" title="MSRC">Microsoft Azure for Operators</a> group in Redmond working with <a href="http://anujkalia.com/" title="AnujKalia">Anuj Kalia</a> on virtualized radio access networks (vRAN) for 5G. </font>
 
 ---
 
@@ -22,7 +21,7 @@ These days, I'm generally interested in **cloud/edge computing**, **low latency 
 > I stepped onto my PhD journey with a diverse engineering background after earning an undergraduate degree in Electrical Engineering from <a href="http://bmstu.ru/" title="BMSTU">BMSTU</a>, an MS degree in Computer Science from <a href="http://epfl.ch/" title="EPFL">EPFL</a>, and working as a software developer at a Samsung R&D Institute for about two years. 
 <br/><br/>I was an intern and visiting student researcher at Microsoft Research in 2017 (<a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/" title="MSRIndia">India</a>), 2018 (<a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/" title="MSRC">Cambridge, UK</a>), and 2021 (<a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/" title="MSRR">Redmond, USA</a>) working with great people and on exciting technologies such as _5G_, _low-latency database systems_, and _real-time machine learning_.
 
-In my free time, I enjoy all sorts of **intense** outdoor activity, in particular plying tennis, hiking, skiing, surfing. I also like traveling and exploring the world. So far, I have lived in 5 different countries and visited 28 other countries as a tourist.
+In my free time, I enjoy all sorts of intense outdoor activity like plying tennis, hiking, skiing, surfing. I also like traveling and exploring the world. So far, I have lived in 5 different countries and visited 28 other countries as a tourist. Sometimes I play drums.
 
 
 ### As a systems researcher (and engineer), I enjoy building things!
@@ -36,5 +35,5 @@ Building systems as a hardware-focused researcher is challenging in academia. It
 ### Let's Keep in touch!
 
 * [CV](../assets/Nikita_Lazarev_CV.pdf)
-* Email: [nikita.u.lazarev@gmail.com](mailto:nikita.u.lazarev@gmail.com), [nl524@cornell.edu](mailto:nl524@cornell.edu)
+* Email: [nikita.u.lazarev@gmail.com](mailto:nikita.u.lazarev@gmail.com), [niklz@mit.edu](mailto:niklz@mit.edu)
 * Telegram: [@tnikita09](https://t.me/tnikita09)

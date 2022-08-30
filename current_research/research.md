@@ -39,15 +39,6 @@ In this project, we built the first proof-of-concept system for offloading a bas
 <a href="https://ieeexplore.ieee.org/document/9180035/" title="MSRC">IEEE CAL Early Work Paper, 2020</a>
 
 
-##### <ins>Dagger+: CPU-Free, General and Efficient Data Transformation and Movement System for the Cloud</ins>
-
-<img src="../assets/img/dagger_plus.png" width="140" height="110" style="float:right; position: relative; top: 15px" />
-
-Extension of our first work on Dagger which in addition to the data movement offload also enables data transformation and manipulation offloads. In this project, we account for the lessons learnt from the first Dagger work and are focusing on making a new CPU-free datamovement system which is not only efficient/fast, but also general, highly programmable, and backward compatible with existing systems. We leverage the novel architectural extensions in the upcoming server-class processors to make it possible! 
-
-The project is sponsored and guided by <a href="https://www.intel.com/content/www/us/en/research/overview.html" title="Intel">Intel Labs</a>.
-
-
 ##### <ins>Towards Virtual Radio Access Networks (vRAN) as Cloud Native Feature</ins>
 
 <img src="../assets/img/5g.png" width="160" height="130" style="float:right" padding-top=2px />
@@ -57,6 +48,15 @@ The project is sponsored and guided by <a href="https://www.intel.com/content/ww
 This work is a collaborative effort with <a href="https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/" title="MSRC">Microsoft Azure for Operators Research</a> group at Microsoft.
 
 **Mentor:** <a href="http://anujkalia.com/" title="AnujKalia">Anuj Kalia</a>.
+
+
+##### <ins>Dagger+: CPU-Free, General and Efficient Data Transformation and Movement System for the Cloud</ins>
+
+<img src="../assets/img/dagger_plus.png" width="140" height="110" style="float:right; position: relative; top: 15px" />
+
+Extension of our first work on Dagger which in addition to the data movement offload also enables data transformation and manipulation offloads. In this project, we account for the lessons learnt from the first Dagger work and are focusing on making a new CPU-free datamovement system which is not only efficient/fast, but also general, highly programmable, and backward compatible with existing systems. We leverage the novel architectural extensions in the upcoming server-class processors to make it possible! 
+
+The project is sponsored and guided by <a href="https://www.intel.com/content/www/us/en/research/overview.html" title="Intel">Intel Labs</a>.
 
 
 ##### <ins>Efficient End-Host Networking with I/O-Optimized x86/64 ISA Extension</ins>
