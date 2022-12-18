@@ -59,8 +59,8 @@ Extension of our first work on Dagger which in addition to the data movement off
 The project is sponsored and guided by <a href="https://www.intel.com/content/www/us/en/research/overview.html" title="Intel">Intel Labs</a>.
 
 
-##### <ins>Efficient End-Host Networking with I/O-Optimized x86/64 ISA Extension</ins>
+##### <ins>Building Fast and Efficient NICs for Modern Cloud</ins>
 
 <img src="../assets/img/x86.png" width="140" height="110" style="float:right" padding-top=10px />
 
-The upcoming (as of 2021) server-class x86/64 processors will come with the optimized I/O sub-system through a set of new ISA extensions. In this research, we evaluate the new I/O system on commodity and kernel-bypass end-host networking stacks, and estimate its potential to improve the performance and CPU efficiency of cloud networking. This project is being carried over with the generous support by <a href="https://www.intel.com/" title="Intel">Intel Corporation</a>.
+The upcoming (as of 2022) server-class x86/64 processors will come with optimized I/O sub-system through a set of new ISA extensions and new interconnects. In this research, we evaluate the new I/O system on commodity and kernel-bypass end-host networking stacks, and estimate its potential to improve the performance and CPU efficiency of cloud networking. This project is being carried over with the generous support by <a href="https://www.intel.com/" title="Intel">Intel Corporation</a>.

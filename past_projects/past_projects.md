@@ -57,9 +57,23 @@ Creating the concept of the project, implementation of the first FPGA-based prot
 <a href="https://elibrary.ru/item.asp?id=24933545" title="Paper">Reference Publication</a>
 
 
-## Hobby Projects <img src="../assets/img/hobby_icon.png" width="45" height="45" style="float:right; object-position: 0 -4pt;" />
+## Class and Hobby Projects <img src="../assets/img/hobby_icon.png" width="45" height="45" style="float:right; object-position: 0 -4pt;" />
 
 ---
+
+##### <ins>Bricklaying Robotic System with KUKA iiwa </ins>
+
+<img src="../assets/img/iiwa.png" width="280" style="float:right; padding-left: 2pt" />
+
+MIT-6.4212 project: simulation of bricklaying with multiple KUKA iiwa robots made in Drake. Just an interesting class project towards fulfilling the TQE "broad" requirement at MIT.
+
+Inverse kinematic optimization, trajectory planning, greedy search.
+{:.note title="Used techniques"}
+
+<a href="https://github.com/barabanshek/MIT_6_4212" title="code">Code</a>
+
+<a href="https://www.youtube.com/watch?v=T4a4LqPDyvE&t=11s" title="presentation">Video presentation</a>
+
 
 ##### <ins>3D Printer with Non-Cartesian Kinematics</ins>
 

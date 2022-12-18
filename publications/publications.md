@@ -12,6 +12,8 @@ permalink: /publications/
 
 N. Lazarev*, T. Ji*, A. Kalia, D. Kim, I. Marinos, F. Y. Yan, C. Delimitrou, Z. Zhang, A. Akella, "Migrating PHY Processing in Cloud vRAN Systems", In submission
 
+L. Patterson, D. Pigorovsky, B. Dempsey, N. Lazarev, A. Shah, C. Steinhoff, A. Bruno, J. Hu, C. Delimitrou, "HiveMind: a Hardware-Software System Stack for Serverless Edge Swarms", <a href="https://dl.acm.org/doi/abs/10.1145/3470496.3527407" title="micro">Proceedings of the 49th Annual International Symposium on Computer Architecture</a>, June, 2022
+
 N. Lazarev, N. Adit, S. Xiang, Z. Zhang, C. Delimitrou, "Dagger: Efficient and Fast RPCs in Cloud Microservices with Near-Memory Reconfigurable NICs", <a href="https://dl.acm.org/doi/proceedings/10.1145/3445814" title="asplos">Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems</a>, April 2021 -- **IEEE MICRO Top Pick Honorable Mention Award**
 
 N. Lazarev, N. Adit, S. Xiang, Z. Zhang, C. Delimitrou, "Dagger: Towards Efficient RPCs in Cloud Microservices with Near-Memory Reconfigurable NICs", <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10208" title="cal">IEEE Computer Architecture Letters</a>, August 2020
@@ -22,8 +24,6 @@ D. Boldasov, N. Lazarev, A. Syritsky, "Phase-Chronometric System for Monitoring 
 ## List of Preprints
 
 D. Kim, N. Lazarev, T. Tracy, F. Siddique, H. Namkung, J. Hoe, V. Sekar, K. Skadron, Z. Zhang, S. Seshan, "A Roadmap for Enabling a Future-Proof In-Network Computing Data Plane Ecosystem", <a href="https://arxiv.org/abs/2111.04563" title="arxiv_switch">Arxiv pre-print</a>, October, 2021
-
-L. Patterson, D. Pigorovsky, B. Dempsey, N. Lazarev, A. Shah, C. Steinhoff, A. Bruno, J. Hu, C. Delimitrou, "A Hardware-Software Stack for Serverless Edge Swarms", <a href="https://arxiv.org/abs/2111.04563" title="arxiv_switch">Arxiv pre-print</a>, December, 2021
 
 
 ## List of Patents
