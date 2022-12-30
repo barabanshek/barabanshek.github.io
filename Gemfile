@@ -26,4 +26,4 @@ gem "tzinfo-data" if Gem.win_platform?
 #  gem 'jekyll-google-tag-manager'
 #end
 
-gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
+#gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
