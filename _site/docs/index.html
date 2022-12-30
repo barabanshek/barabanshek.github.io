@@ -1,17 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"><!--
- __  __                __                                     __
-/\ \/\ \              /\ \             __                    /\ \
-\ \ \_\ \   __  __    \_\ \      __   /\_\      __       ___ \ \ \/'\
- \ \  _  \ /\ \/\ \   /'_` \   /'__`\ \/\ \   /'__`\    /'___\\ \ , <
-  \ \ \ \ \\ \ \_\ \ /\ \L\ \ /\  __/  \ \ \ /\ \L\.\_ /\ \__/ \ \ \\`\
-   \ \_\ \_\\/`____ \\ \___,_\\ \____\ _\ \ \\ \__/.\_\\ \____\ \ \_\ \_\
-    \/_/\/_/ `/___/> \\/__,_ / \/____//\ \_\ \\/__/\/_/ \/____/  \/_/\/_/
-                /\___/                \ \____/
-                \/__/                  \/___/
-
-Powered by Hydejack v9.1.6 <https://hydejack.com/>
--->
+<html lang="en">
 
 
 
@@ -45,7 +33,7 @@ Powered by Hydejack v9.1.6 <https://hydejack.com/>
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Documentation" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/docs/","headline":"Documentation","author":{"@type":"Person","name":"<firstname> <lastname>"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/photo.jpg"},"name":"<firstname> <lastname>"},"description":"Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.","@type":"WebPage","@context":"https://schema.org"}</script>
+{"headline":"Documentation","url":"http://localhost:4000/docs/","author":{"@type":"Person","name":"<firstname> <lastname>"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/photo.jpg"},"name":"<firstname> <lastname>"},"description":"Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -91,6 +79,7 @@ Powered by Hydejack v9.1.6 <https://hydejack.com/>
 
 <link rel="preload" href="/assets/img/swipe.svg" as="image" id="_hrefSwipeSVG">
 
+<link rel="dns-prefetch" href="/assets/js/search-worker-9.1.6.js" as="worker" id="_hrefSearch">
 
 
 
@@ -107,10 +96,11 @@ Powered by Hydejack v9.1.6 <https://hydejack.com/>
   w._noNavbar = false;
   w._noToc = false;
   w._noSearch = false;
+  w._advertise = false;
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2022-12-18T23:50:40+03:00',
+    INDEX_KEY: 'index--2022-12-30T14:44:58+03:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -134,7 +124,7 @@ Powered by Hydejack v9.1.6 <https://hydejack.com/>
 
   <style id="_pageStyle">
 
-html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);--accent-color-highlight: rgba(79,177,186,0.1);--accent-color-darkened: #409ba3;--theme-color: rgb(8,46,57)}
+html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);--accent-color-highlight: rgba(79,177,186,0.1);--accent-color-darkened: #409ba3;--theme-color: rgb(8,46,57);--dark-mode-body-bg: #282f31;--dark-mode-border-color: #343c3f}
 
 </style>
 
@@ -224,6 +214,13 @@ Left here for reference, feel free to delete.
 
 <body class="no-break-layout">
   
+<script>
+  window._sunrise = 6;
+  window._sunset =  18;
+  !function(e,s){var d="light-mode",o="dark-mode",a=(new Date).getHours();"matchMedia"in e&&e.matchMedia("(prefers-color-scheme)")||(e=(a=a<=e._sunrise||a>=e._sunset?o:d)==o?d:o,s.body.classList.add(a),s.body.classList.remove(e))}(window,document);
+
+</script>
+
 
 
 <hy-push-state
@@ -330,7 +327,7 @@ Should you discover a mistake in the docs (or a bug in general) feel free to <a 
 </small></p>
   
   
-    <p><small>Powered by <a class="external" href="https://hydejack.com/">Hydejack</a> v<span id="_version">9.1.6</span></small></p>
+  
   <hr class="sr-only"/>
 </footer>
 
@@ -626,6 +623,15 @@ Should you discover a mistake in the docs (or a bug in general) feel free to <a 
   }(window, document);</script>
 
 
+  <script type="module">
+    if ('serviceWorker' in navigator) {
+      /**/
+      navigator.serviceWorker.getRegistration()
+        .then(r => r.unregister())
+        .catch(() => {});
+      /**/
+    }
+  </script>
 <!--<![endif]-->
   <!-- <script>
   document.querySelector('hy-push-state').setAttribute('prefetch', '');
@@ -739,8 +745,42 @@ Code for integrating CloudFlare's email protection with Hydejack's single page a
   </a>
 </template>
 
-</div>
+  
+  
+    <template id="_dark-mode-template">
+  <button id="_dark-mode" class="nav-btn no-hover" >
+    <span class="sr-only">Dark Mode</span>
+    <span class="icon-brightness-contrast"></span>
+  </button>
+</template>
 
+  
+  
+    <template id="_search-template">
+  <button id="_search" class="nav-btn no-hover">
+    <label class="sr-only" for="_search-input">Search</label>
+    <span class="icon-search"></span>
+  </button>
+  <div id="_search-box">
+    <div class="nav-btn">
+      <span class="icon-search"></span>
+    </div>
+    <input 
+      id="_search-input"
+      type="search"
+      class="form-control form-control-lg nav-btn"
+      placeholder="Build with JEKYLL_ENV=production to enable search."
+    />
+    <button type="reset" class="nav-btn no-hover">
+      <span class="sr-only">Close</span>
+      <span class="icon-cross"></span>
+    </button>
+  </div>
+  <div id="_hits"></div>
+</template>
+
+  
+</div>
 
 </body>
 </html>

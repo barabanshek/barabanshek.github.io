@@ -1,3 +1,10 @@
+PATH
+  remote: #jekyll-theme-hydejack
+  specs:
+    jekyll-theme-hydejack (9.1.6)
+      jekyll (>= 3.8, < 5.0)
+      jekyll-include-cache (~> 0.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -234,8 +241,6 @@ GEM
     nokogiri (1.12.2)
       mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
-    nokogiri (1.12.2-x86_64-linux)
-      racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -286,6 +291,7 @@ DEPENDENCIES
   jekyll (~> 3.8)
   jekyll-compose
   jekyll-include-cache
+  jekyll-theme-hydejack!
 
 BUNDLED WITH
    2.2.25
