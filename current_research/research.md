@@ -49,6 +49,8 @@ This work is a collaborative effort with <a href="https://www.microsoft.com/en-u
 
 **Mentor:** <a href="http://anujkalia.com/" title="AnujKalia">Anuj Kalia</a>.
 
+<a href="https://www.microsoft.com/en-us/research/publication/resilient-baseband-processing-in-virtualized-rans-with-slingshot/" title="MSRC">5G PHY resilience paper, 2023 [Microsoft Research Preprint]</a>
+
 
 ##### <ins>Dagger+: CPU-Free, General and Efficient Data Transformation and Movement System for the Cloud</ins>
 
