@@ -10,7 +10,7 @@ permalink: /past_projects/
 
 In the past, I was involved in some decent number of projects both in the industry and academia, as well as hobby projects. Here, I'm listing the most interesting of them.
 
-## Industry <img src="../assets/img/industry_icon.png" width="45" height="45" style="float:right; object-position: 0 -6pt;"/>
+## Industry
 
 ---
 
@@ -36,7 +36,7 @@ Samsung R&D Above and Beyond Award
 {:.note title="Awards"}
 
 
-## Academia <img src="../assets/img/academia_icon.png" width="50" height="50" style="float:right; object-position: 0 -4pt;" />
+## Academia
 
 ---
 
@@ -57,7 +57,7 @@ Creating the concept of the project, implementation of the first FPGA-based prot
 <a href="https://elibrary.ru/item.asp?id=24933545" title="Paper">Reference Publication</a>
 
 
-## Class and Hobby Projects <img src="../assets/img/hobby_icon.png" width="45" height="45" style="float:right; object-position: 0 -4pt;" />
+## Class and Hobby Projects
 
 ---
 
