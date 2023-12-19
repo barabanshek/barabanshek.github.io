@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## List of Selected Publications
 
-N. Lazarev\*, T. Ji\*, A. Kalia, D. Kim, I. Marinos, F. Y. Yan, C. Delimitrou, Z. Zhang, A. Akella, "Resilient Baseband Processing in Virtualized RANs with Slingshot", ACM Special Interest Group on Data Communication (SIGCOMM), <a href="https://www.microsoft.com/en-us/research/publication/resilient-baseband-processing-in-virtualized-rans-with-slingshot/" title="preprint">SIGCOMM'23</a>, September 2023, New York City
+N. Lazarev\*, T. Ji\*, A. Kalia, D. Kim, I. Marinos, F. Y. Yan, C. Delimitrou, Z. Zhang, A. Akella, "Resilient Baseband Processing in Virtualized RANs with Slingshot", <a href="https://dl.acm.org/doi/proceedings/10.1145/3603269" title="preprint">ACM Special Interest Group on Data Communication (SIGCOMM'23)</a>, September 2023, New York City
 
 N. Lazarev, N. Adit, S. Xiang, Z. Zhang, C. Delimitrou, "Dagger: Efficient and Fast RPCs in Cloud Microservices with Near-Memory Reconfigurable NICs", <a href="https://dl.acm.org/doi/proceedings/10.1145/3445814" title="asplos">Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems</a>, April 2021, Virtual -- **IEEE MICRO Top Pick Honorable Mention Award**
 
@@ -18,7 +18,7 @@ N. Lazarev, N. Adit, S. Xiang, Z. Zhang, C. Delimitrou, "Dagger: Towards Efficie
 
 ## Other Publications & Preprints
 
-Y. Li, N. Lazarev, D. Koufaty, Y. Yin, A. Anderson, Z. Zhang, E. Suh, K. Kaffes, C. Delimitrou, "Towards Fast, Adaptive, and Hardware-Assisted User-Space Scheduling", To appear, HPCA'2024
+Y. Li, N. Lazarev, D. Koufaty, Y. Yin, A. Anderson, Z. Zhang, E. Suh, K. Kaffes, C. Delimitrou, "Towards Fast, Adaptive, and Hardware-Assisted User-Space Scheduling", To appear, HPCA'24
 
 D. Kim, N. Lazarev, T. Tracy, F. Siddique, H. Namkung, J. Hoe, V. Sekar, K. Skadron, Z. Zhang, S. Seshan, "A Roadmap for Enabling a Future-Proof In-Network Computing Data Plane Ecosystem", <a href="https://arxiv.org/abs/2111.04563" title="arxiv_switch">Arxiv pre-print</a>, October, 2021
 
@@ -29,7 +29,7 @@ D. Boldasov, N. Lazarev, A. Syritsky, "Phase-Chronometric System for Monitoring 
 
 ## List of Patents
 
-"Dynamic Re-Routing and Modification of Layer Traffic in Virtualized RANs", A. Kalia, D. Kim, I. Marinos, T. Jiang, N. Lazarev, V. Bahl, US patent, registration number: <a href="https://patents.google.com/patent/US20230388234A1/en" title="US20230388234A1">"The Devices"</a>, 2023
+"Dynamic Re-Routing and Modification of Layer Traffic in Virtualized RANs", A. Kalia, D. Kim, I. Marinos, T. Jiang, N. Lazarev, V. Bahl, US patent, registration number: <a href="https://patents.google.com/patent/US20230388234A1/en" title="US20230388234A1">US20230388234A1</a>, 2023
 
 "Precise FPGA-based time measurement system for real-time turning process monitoring", A. Syritsky, D. Boldasov, N. Lazarev, A. Komshin, Russian patent, registration number: RU2019610688, 2016
 
