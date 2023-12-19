@@ -51,6 +51,8 @@ This work is a collaborative effort with <a href="https://www.microsoft.com/en-u
 
 <a href="https://www.microsoft.com/en-us/research/publication/resilient-baseband-processing-in-virtualized-rans-with-slingshot/" title="MSRC">SIGCOMM'23 Paper on 5G PHY Resilience, 2023</a>
 
+<a href="https://patents.google.com/patent/US20230388234A1/en" title="US20230388234A1">"Patent on layer traffic re-routing, 2023"</a>
+
 
 ##### <ins>Dagger+: CPU-Free, General and Efficient Data Transformation and Movement System for the Cloud</ins>
 
