@@ -53,7 +53,7 @@ This work is a collaborative effort with <a href="https://www.microsoft.com/en-u
 
 <a href="https://www.youtube.com/watch?v=PYXsZaHABM0" title="MSRC">SIGCOMM'23 Conference Talk, 2023</a>
 
-<a href="https://patents.google.com/patent/US20230388234A1/en" title="US20230388234A1">Patent on layer traffic re-routing in vRAN, 2023</a>
+Patents: [<a href="https://patents.google.com/patent/US20230388234A1/en" title="US20230388234A1">1</a>]
 
 
 ##### <ins>Dagger+: CPU-Free, General and Efficient Data Transformation and Movement System for the Cloud</ins>
