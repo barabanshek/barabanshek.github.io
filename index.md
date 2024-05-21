@@ -12,7 +12,7 @@ permalink: /
 
 **Hey-hey,**<br/><br/>
 
-<font size="4"> I'm a fourth-year PhD student in <a href="https://www.csail.mit.edu/" title="CSAIL">CSAIL</a>  @<a href="http://mit.edu/" title="Cornell">MIT</a>. Here we do exciting research on new software and hardware networking systems for the cloud under the guidance of <a href="https://people.csail.mit.edu/delimitrou/" title="Cornell">Professor Christina Delimitrou</a> and <a href="https://www.csl.cornell.edu/~zhiruz/" title="Cornell">Professor Zhiru Zhang</a>. Before coning to MIT, I spent 3 wonderful years at <a href="https://www.cornell.edu/" title="Cornell">Cornell</a>! At the same time, I'm also a visiting researcher at <a href="https://www.microsoft.com/en-us/research/group/azure-for-operators-afo-research/" title="MSRC">Microsoft Azure for Operators</a> group in Redmond working with <a href="http://anujkalia.com/" title="AnujKalia">Anuj Kalia</a> on virtualized radio access networks (vRAN) for 5G. </font>
+<font size="4"> I'm a fourth-year PhD student in <a href="https://www.csail.mit.edu/" title="CSAIL">CSAIL</a>  @MIT. Here we do exciting research on new software and hardware networking systems for the cloud under the guidance of <a href="https://people.csail.mit.edu/delimitrou/" title="Cornell">Professor Christina Delimitrou</a> and <a href="https://www.csl.cornell.edu/~zhiruz/" title="Cornell">Professor Zhiru Zhang</a>. Before coming to MIT, I spent 3 wonderful years at Cornell! At the same time, I'm also a visiting researcher at <a href="https://techsysinfra.google/research/" title="MSRC">Google SRG</a> working on custom hardware for networking and distributed systems. </font>
 
 ---
 
