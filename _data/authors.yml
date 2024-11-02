@@ -26,6 +26,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
+    # CV:              ../assets/Nikita_Lazarev_CV.pdf
+    email:           niklz@csail.mit.edu
     github:          https://github.com/barabanshek
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
