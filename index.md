@@ -12,7 +12,7 @@ permalink: /
 
 **Hey-hey,**<br/><br/>
 
-<font size="4"> I'm a fourth-year PhD student in <a href="https://www.csail.mit.edu/" title="CSAIL">CSAIL</a>  @MIT. Here we do exciting research on new software and hardware networking systems for the cloud under the guidance of <a href="https://people.csail.mit.edu/delimitrou/" title="Cornell">Professor Christina Delimitrou</a> and <a href="https://www.csl.cornell.edu/~zhiruz/" title="Cornell">Professor Zhiru Zhang</a>. Before coming to MIT, I spent 3 wonderful years at Cornell! At the same time, I'm also a visiting researcher at <a href="https://techsysinfra.google/research/" title="MSRC">Google SRG</a> working on custom hardware for networking and distributed systems. </font>
+<font size="4"> I'm a final-year PhD student in <a href="https://www.csail.mit.edu/" title="CSAIL">CSAIL</a>  @MIT. Here we do exciting research on new software and hardware networking systems for the cloud under the guidance of <a href="https://people.csail.mit.edu/delimitrou/" title="Cornell">Professor Christina Delimitrou</a> and <a href="https://www.csl.cornell.edu/~zhiruz/" title="Cornell">Professor Zhiru Zhang</a>. Before coming to MIT, I spent 3 wonderful years at Cornell! At the same time, I'm also a visiting researcher at <a href="https://techsysinfra.google/research/" title="MSRC">Google SRG</a> working on custom hardware for networking and distributed systems. </font>
 
 ---
 
@@ -34,6 +34,4 @@ Building systems as a hardware-focused researcher is challenging in academia. It
 
 ### Let's Keep in touch!
 
-* [CV](../assets/Nikita_Lazarev_CV.pdf)
-* Email: [nikita.u.lazarev@gmail.com](mailto:nikita.u.lazarev@gmail.com), [niklz@mit.edu](mailto:niklz@mit.edu)
-* Telegram: [@tnikita09](https://t.me/tnikita09)
+* Email: [niklz@csail.mit.edu](mailto:niklz@csail.mit.edu)

@@ -54,24 +54,20 @@ This work is a collaborative effort with <a href="https://www.microsoft.com/en-u
 
 <a href="https://www.youtube.com/watch?v=PYXsZaHABM0" title="MSRC">SIGCOMM'23 Conference Talk, 2023</a>
 
-Patents: [<a href="https://patents.google.com/patent/US20230388234A1/en" title="US20230388234A1">1</a>]
+Patents: [<a href="https://patents.google.com/patent/US20230388234A1/en" title="US20230388234A1">1</a>, <a href="https://www.freepatentsonline.com/y2024/0405945.html" title="20240405945">2</a>, <a href="https://www.freepatentsonline.com/y2024/0406860.html" title="20240406860">3</a>]
 
+##### <ins>Sabre: Hardware-Accelerated Snapshot Compression for Serverless MicroVMs</ins>
 
-##### <ins>Dagger+: CPU-Free, General and Efficient Data Transformation and Movement System for the Cloud</ins>
+<img src="../assets/img/serverless.png" width="140" height="110" style="float:right" padding-top=10px />
 
-<img src="../assets/img/dagger_plus.png" width="140" height="110" style="float:right; position: relative; top: 15px" />
+MicroVM snapshotting significantly reduces the cold start overheads in serverless applications. Snapshotting enables storing part of the physical memory of a microVM guest into a file, and later restoring from it to avoid long cold start-up times. Prefetching memory pages from snapshots can further improve the effectiveness of snapshotting. However, the efficacy of prefetching depends on the size of the memory that needs to be restored. Lossless page compression is therefore a great way to improve the coverage of the memory footprint that snapshotting with prefetching achieves. Unfortunately, the high overhead and high CPU cost of software-based (de)compression makes this impractical.
 
-Extension of our first work on Dagger which in addition to the data movement offload also enables data transformation and manipulation offloads. In this project, we account for the lessons learnt from the first Dagger work and are focusing on making a new CPU-free datamovement system which is not only efficient/fast, but also general, highly programmable, and backward compatible with existing systems. We leverage the novel architectural extensions in the upcoming server-class processors to make it possible! 
+We introduce Sabre, a novel approach to snapshot page prefetching based on hardware-accelerated (de)compression. Sabre leverages an increasingly pervasive near-memory analytics accelerator available in modern datacenter processors. We show that by appropriately leveraging such accelerators, microVM snapshots of serverless applications can be compressed up to a factor of 4.5×, with nearly negligible decompression costs.
 
-The project is sponsored and guided by <a href="https://www.intel.com/content/www/us/en/research/overview.html" title="Intel">Intel Labs</a>.
+The project is sponsored by <a href="https://www.intel.com/content/www/us/en/research/overview.html" title="Intel">Intel Labs</a>.
 
+<a href="https://github.com/barabanshek/sabre" title="Sabre">GitHub repo</a>
 
-##### <ins>Building Fast and Efficient NICs for Modern Cloud</ins>
+<a href="https://www.usenix.org/system/files/osdi24-lazarev_1.pdf" title="OSDI">OSDI'24 Publication, 2024</a>
 
-<img src="../assets/img/networkcard_92605.png" width="140" height="110" style="float:right" padding-top=10px />
-
-The network bandwidth is growing: 400 Gbps already today, xTbps coming soon. Cloud processors themselves already contain hundreds of cores and are ready to consume it. However, their memory and I/O subsystems are not. The inefficiencies in the traditional hardware packet I/O showing up at such speeds limit the full potential of high bandwidth networks and the demands of today's applications.
-
-The upcoming (as of 2022) server-class x86/64 processors will come with optimized I/O sub-system through a set of new ISA extensions and new interconnects such as CXL. In this research, we evaluate the new I/O system on commodity and kernel-bypass end-host networking stacks, and estimate its potential to improve the performance and CPU efficiency of cloud networking.
-
-The project is sponsored and guided by <a href="https://www.intel.com/content/www/us/en/research/overview.html" title="Intel">Intel Labs</a>.
+<a href="https://www.usenix.org/conference/osdi24/presentation/lazarev" title="OSDI">OSDI'24 Conference Talk, 2024</a>
